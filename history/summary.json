@@ -1,20 +1,20 @@
 [
   {
-    "name": "Discohook",
+    "name": "Discohook.app",
     "url": "https://discohook.app",
     "icon": "https://icons.duckduckgo.com/ip3/discohook.app.ico",
-    "slug": "discohook",
+    "slug": "discohook-app",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 547,
-    "timeDay": 547,
-    "timeWeek": 547,
-    "timeMonth": 547,
-    "timeYear": 547,
+    "time": 371,
+    "timeDay": 371,
+    "timeWeek": 371,
+    "timeMonth": 371,
+    "timeYear": 371,
     "dailyMinutesDown": {}
   }
 ]
