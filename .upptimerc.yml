@@ -3,7 +3,7 @@ owner: discohook # Your GitHub organization or username, where this repository l
 repo: statuspage # The name of this repository
 
 sites:
-  - name: Discohook
+  - name: Discohook.app
     url: https://discohook.app
 
 status-website:
@@ -13,11 +13,15 @@ status-website:
   baseUrl: /statuspage
   logoUrl: https://github.com/discohook/discohook/raw/refs/heads/main/packages/site/public/logos/icon.svg
   name: Discohook
+  # introTitle: "Discohook is a simple, free, and highly versatile message designer for Discord webhooks."
+  introMessage: This page automatically monitors the uptime of discohook.app. In the future, bot incidents will also be posted here.
+  theme: dark
   navbar:
     - title: Status
       href: /
     - title: Discord
       href: https://discord.gg/discohook-668218342779256857
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+workflowSchedule:
+  # default is every 5 mins
+  uptime: "*/10 * * * *"
