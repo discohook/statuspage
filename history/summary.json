@@ -4,17 +4,19 @@
     "url": "https://discohook.app",
     "icon": "https://icons.duckduckgo.com/ip3/discohook.app.ico",
     "slug": "discohook-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 230,
-    "timeDay": 136,
-    "timeWeek": 198,
-    "timeMonth": 251,
-    "timeYear": 230,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 227,
+    "timeDay": 121,
+    "timeWeek": 185,
+    "timeMonth": 245,
+    "timeYear": 227,
+    "dailyMinutesDown": {
+      "2025-10-23": 21
+    }
   }
 ]
