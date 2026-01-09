@@ -7,10 +7,7 @@ sites:
     url: https://discohook.app
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: status.discohook.app
-  baseUrl: /statuspage
+  cname: status.discohook.app
   logoUrl: https://github.com/discohook/discohook/raw/refs/heads/main/packages/site/public/logos/icon.svg
   name: Discohook
   # introTitle: "Discohook is a simple, free, and highly versatile message designer for Discord webhooks."
