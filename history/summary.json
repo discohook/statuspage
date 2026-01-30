@@ -4,7 +4,7 @@
     "url": "https://discohook.app",
     "icon": "https://icons.duckduckgo.com/ip3/discohook.app.ico",
     "slug": "discohook-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 192,
     "timeYear": 205,
     "dailyMinutesDown": {
+      "2026-01-30": 0,
       "2025-11-18": 82,
       "2025-10-23": 21
     }
